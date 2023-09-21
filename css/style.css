@@ -18,6 +18,7 @@ body .container {
   background-color: #fff;
   border-radius: 8px;
   overflow: hidden;
+  box-shadow: 0 15px 30px 0 rgba(0, 81, 171, 0.15);
 }
 body .container .top {
   padding: 40px;
